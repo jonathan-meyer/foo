@@ -1,0 +1,12 @@
+{
+  "name": "foo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:jonathan-meyer/foo.git",
+  "author": "JONATHAN MEYER <JONATHAN.MEYER@LIBERTYMUTUAL.COM>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
